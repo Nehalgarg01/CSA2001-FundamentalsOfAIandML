@@ -57,3 +57,23 @@ To start querying the dataset, run the search script:
 `python AIML/IDF-search_updated.py`
 
 When the prompt appears, type your search query (e.g., "space exploration", "computer hardware", or "encryption"). The script will return the top matching documents from the 20 Newsgroups dataset, ranked by relevance.
+
+## Output Screenshots
+
+#### Generating the IDF-Matrix
+
+![IDF-Matrix](screenshots/IDF-Matrix.png)
+
+#### Search Results
+
+![Output Index 01](screenshots/IDF-Search_01.png)
+
+![Output Index 02/03](screenshots/IDF-Search_02.png)
+
+![Output Index 04](screenshots/IDF-Search_03.png)
+
+![Output Index 05](screenshots/IDF-Search_04.png)
+
+**All screenshots of the program running are placed in the */screenshots* folder.**
+
+---
